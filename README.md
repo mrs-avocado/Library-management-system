@@ -1,19 +1,23 @@
-# 📚 Library Management System
+ C++-based Object-Oriented Programming project designed to simulate the core operations of a library system. Developed as part of an academic project for the OOP module in the first year at ENSIA.
 
-The Object-Oriented C++ project for managing library resources, users, loans, and reservations.
-Ensia 1st year , module OOP
+✨ Key Functionalities
+Perform operations such as adding, removing, and displaying:
 
-## 🚀 Features
+Books
 
-- Add, remove, and list:
-  - Books
-  - Articles
-  - Theses
-  - Digital Resources
-- Manage users and their borrowed items
-- Borrow and return resources
-- Handle resource reservations via a queue system
-- Store all data using class structures and dynamic memory
+Academic Articles
+
+Theses
+
+Digital Media
+
+Register and manage library users
+
+Enable borrowing and returning of library materials
+
+Implement a queue-based reservation mechanism
+
+Leverages class-based design and dynamic memory allocation
 
 ## 🏗️ Project Structure
 
@@ -51,11 +55,12 @@ g++ main.cpp Resource.cpp Book.cpp Article.cpp Thesis.cpp DigitalResource.cpp Us
 ### Run:
 ./library
 
-# ✅ Requirements
+🔧 Prerequisites
+C++ compiler (C++11 standard or newer)
 
-* C++11 or later
-* A terminal / shell
-* (Optional) IDE like VS Code or Replit
+Terminal or command-line interface
+
+(Optional) Development environment like Replit or Visual Studio Code
 
 ## 📌 Notes
 
@@ -63,5 +68,7 @@ g++ main.cpp Resource.cpp Book.cpp Article.cpp Thesis.cpp DigitalResource.cpp Us
 * The `Loan` and `ReservationManager` classes operate with in-memory data.
 
 ## 📄 License
-MIT License — use it freely for learning or improvement.
+Licensed under the MIT License. Feel free to use, adapt, or extend it for learning purposes.
+
+
 
