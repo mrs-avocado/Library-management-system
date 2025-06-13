@@ -1,0 +1,21 @@
+/LibraryManagementSystem
+│
+├── main.cpp
+├── Resource.h
+├── Resource.cpp
+├── Book.h
+├── Book.cpp
+├── Article.h
+├── Article.cpp
+├── Thesis.h
+├── Thesis.cpp
+├── DigitalResource.h
+├── DigitalResource.cpp
+├── User.h
+├── User.cpp
+├── Loan.h
+├── Loan.cpp
+├── ReservationManager.h
+├── ReservationManager.cpp
+├── LibraryManager.h
+├── LibraryManager.cpp
